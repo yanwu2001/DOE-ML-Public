@@ -12,8 +12,8 @@ A screenshot of the file Catapult_ABCDEFGy_raw.csv opened in Excel is shown belo
 The first row of data file (Catapult_ABCDEFGy_raw.csv) is a header. The first two columns, ID and Combo#, are internal identifiers.
 The rest of the file contains data collected from experiments. The length unit is centimeter and the mass unit is gram.
 
-The file DOE_23FF_LZ.csv shows sample data from a 2-level, 3-factor, full factorial design of experiments. 
-A screenshot of the file DOE_23FF_LZ.csv opened in Excel is shown below.
+The file DOE_23FF_Group1.csv shows sample data from a 2-level, 3-factor, full factorial design of experiments. 
+A screenshot of the file DOE_23FF_Group1.csv opened in Excel is shown below.
 
 ![SimplifiedDataStructure](DOE_23FF.png)
 
