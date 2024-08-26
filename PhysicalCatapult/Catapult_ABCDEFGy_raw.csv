@@ -1,4 +1,4 @@
-﻿ID,Combo#,ball_mass,firing _height,band_length,band_height,collar_height,collar_distance,firing_position,launch_distance,short_long
+﻿ID,Combo#,ball_mass,firing_height,band_length,band_height,collar_height,collar_distance,firing_position,launch_distance,short_long
 run1,0,61.3,18,41.8,34,9,59.5,21,178.6,short
 run2,8,94.1,23,43,34,9,59.5,21,147.8,short
 run3,3,22.9,23,40.6,34,9,59.5,21,146.5,short
